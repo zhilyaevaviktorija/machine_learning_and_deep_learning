@@ -1,4 +1,4 @@
-# machine_learning
+# machine_learning_and_deep_learning
 __________________
 ## **Жиляева Виктория**
 ### **Группа**: МЯТБО251С
